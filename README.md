@@ -251,8 +251,8 @@ Then, run all the cells. At the end of the run the model will be deployed using 
 
 ---
 🚀 created by: [Adem Aldemir](https://www.linkedin.com/in/ademaldemir/) 👨🏻‍💻
-
 🧬 [for original version](https://developer.ibm.com/components/jupyter/patterns/machine-learning-using-synthesized-patient-health-records)
+
 ---
 
 ![IBM](https://raw.githubusercontent.com/ademaldemir/machine-learning-patient-records-on-db2/master/images/iloveai.jpg)
