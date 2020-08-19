@@ -255,6 +255,6 @@ Then, run all the cells. At the end of the run the model will be deployed using 
 
 ---
 
-![IBM](https://www.ibm.com/blogs/research/wp-content/uploads/2017/12/iloveaEYE_small.jpg)
+![IBM](https://raw.githubusercontent.com/ademaldemir/machine-learning-patient-records-on-db2/master/images/iloveai.jpg)
 
 
