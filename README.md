@@ -21,9 +21,8 @@ When the reader has completed this Code Pattern, they will understand how to:
 1. Create a Watson Studio Project on IBM Cloud.
 2. Create a DB2 on Cloud Database : IBM DB2 stores information that will be used for machine learning and predictions.
 3. Create Watson Machine Learning Service
-2. Create a notebook in Watson Studio
-3. Create a Jupyter Notebook
-6. Publish and deploy model with Watson Machine Learning
+4. Create a Jupyter notebook in Watson Studio
+5. Publish and deploy model with Watson Machine Learning
 
 ## Steps
 ---
@@ -253,6 +252,7 @@ Then, run all the cells. At the end of the run the model will be deployed using 
 ---
 🚀 created by: [Adem Aldemir](https://www.linkedin.com/in/ademaldemir/) 👨🏻‍💻
 
+🧬 [for original version](https://developer.ibm.com/components/jupyter/patterns/machine-learning-using-synthesized-patient-health-records)
 ---
 
 ![IBM](https://raw.githubusercontent.com/ademaldemir/machine-learning-patient-records-on-db2/master/images/iloveai.jpg)
