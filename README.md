@@ -202,7 +202,7 @@ We have finally created our Watson Studio service. Within that, created a projec
 
 * Fill out the notebook details
 * Select `From URL` option from the tab and paste the following link to Notebook URL field:
-`https://raw.githubusercontent.com/ademaldemir/machine-learning-patient-records-on-db2/master/Notebook/webinar_notebook.ipynb`
+`https://raw.githubusercontent.com/ademaldemir/machine-learning-patient-records-on-db2/master/health_record_notebook.ipynb`
 
 Before we run the notebook, we need to create `Watson Machine Learning` instance so that we can deploy the model to Watson Machine Learning on IBM Cloud. Here are the steps:
 
