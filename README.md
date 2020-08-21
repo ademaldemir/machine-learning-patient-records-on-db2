@@ -250,7 +250,8 @@ Then, run all the cells. At the end of the run the model will be deployed using 
 * Check out our other [events.](https://www.meetup.com/IBM-Z-LinuxONE-Community-Turkey)
 
 ---
-🚀 created by: [Adem Aldemir](https://www.linkedin.com/in/ademaldemir/) 👨🏻‍💻
+🚀 created by: [Adem Aldemir](https://www.linkedin.com/in/ademaldemir/)
+
 🌁 presented by: Adem ALDEMIR and [Betül TEKNE](https://www.linkedin.com/in/betul-tekne-68303895/)
 
 🧬 [inspired by this code pattern](https://developer.ibm.com/components/jupyter/patterns/machine-learning-using-synthesized-patient-health-records)
