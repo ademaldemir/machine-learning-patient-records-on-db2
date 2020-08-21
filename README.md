@@ -258,10 +258,6 @@ Then, run all the cells. At the end of the run the model will be deployed using 
 
 ---
 
-![IBM](https://raw.githubusercontent.com/ademaldemir/machine-learning-patient-records-on-db2/master/images/iloveai.jpg)
-![IBM Z AND LINUX ONE COMMUNITY](https://raw.githubusercontent.com/ademaldemir/machine-learning-patient-records-on-db2/master/images/LINUX_ONE_MEETUP.png)
-
----
 ![IBM Webinar](https://media-exp1.licdn.com/dms/image/C4D22AQE1oT6yyGssMQ/feedshare-shrink_1280-alternative/0?e=1600905600&v=beta&t=AJHXHnrjgH-KZFnhCAOogEoj_lp54nOtZ9BTYPpjXXE)
 
 
